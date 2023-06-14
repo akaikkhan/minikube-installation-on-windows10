@@ -1,0 +1,4 @@
+Any virtaul machine softwate should be installed like docker, vmware or oracle virtualbox and virtualization need to be open in bios.
+Download minikube from github.com/kubernetes/minikube/releases as per your requirements.
+Set the environment variable path
+use the window powershell and follow the k8s documents.
